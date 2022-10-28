@@ -3,4 +3,4 @@
 Check out the main project [TTModeler](https://github.com/SecSimon/TTM).
 
 ## TTM-examples
-Explore some example projects using the [TTModeler app](https://www.simon-liebl.com/TTM).
+Explore some example projects using the [TTModeler app](https://www.simon-liebl.de/TTM).
